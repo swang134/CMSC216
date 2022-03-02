@@ -1,0 +1,21 @@
+                      Commands to run the public tests
+
+1. lengthcheck.x < public01.input | diff - public01.output
+
+2. lengthcheck.x < public02.input | diff - public02.output
+
+3. lengthcheck.x < public03.input | diff - public03.output
+
+4. lengthcheck.x < public04.input | diff - public04.output
+
+5. lengthcheck.x < public05.input | diff - public05.output
+
+6. expand.x < public06.input | diff - public06.output
+
+7. lengthcheck.x < public07.input | diff - public07.output
+
+8. expand.x < public08.input | lengthcheck.x | diff - public08.output
+
+9. lengthcheck.x < public09.input | diff - public09.output
+
+10. expand.x < public10.input | diff - public10.output

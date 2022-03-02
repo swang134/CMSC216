@@ -1,0 +1,28 @@
+   58: /* Writing good descriptive comments is very important. */
+    0: 
+* Writing good descriptive comments is very important. */
+   77: /* This is not only because comments are a significant part of your score. */
+    0: 
+* This is not only because comments are a significant part of your score. */
+   75: /* It is also because writing good descriptive comments help you understand
+/
+   73:    you own program much better, and often the process of writing comments
+d
+/
+   73:    to describe what your code is doing makes you realize that you need to
+d
+/
+   36:    fix or change something in it. */
+g makes you realize that you need to
+d
+/
+    0: 
+  fix or change something in it. */
+g makes you realize that you need to
+d
+/
+   35: /* So write more comments today! */
+
+g makes you realize that you need to
+d
+/
